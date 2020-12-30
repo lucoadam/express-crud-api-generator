@@ -1,0 +1,29 @@
+{
+  "name": "express-crud-api-generator",
+  "version": "1.0.0",
+  "description": "An easy way to deal with the crud application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucoadam/express-crud-api-generator.git"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "api",
+    "generator"
+  ],
+  "author": "Alish Dahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucoadam/express-crud-api-generator/issues"
+  },
+  "homepage": "https://github.com/lucoadam/express-crud-api-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  }
+}
