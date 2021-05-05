@@ -1,5 +1,5 @@
 ## express-crud-api-generator 1.0.0
-## What is this?
+## What is this? And how it works?
 
 Generate crud application in express with mongoose Schema
 
