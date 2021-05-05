@@ -1,4 +1,5 @@
 ## express-crud-api-generator 1.0.0
+[![NPM](https://nodei.co/npm/express-crud-api-generator.png?global=true)](https://nodei.co/npm/express-crud-api-generator/)
 ## What is this? And how it works?
 
 Generate crud application in express with mongoose Schema
